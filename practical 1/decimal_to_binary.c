@@ -15,5 +15,5 @@ int main() {
     for(int j=i-1;j>=0;j--){
         binary = binary*10 + num[j];
     }
-    printf("%d",binary);
+    printf("Binary number is: %d",binary);
 }
